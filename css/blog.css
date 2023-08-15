@@ -43,18 +43,18 @@ h6, .h6 {
    /* border-bottom: 3px dashed;*/
 }
 
-.navbar-default .navbar-nav>li:first-child>a {
+.navbar-default .navbar-nav>li:first-child>a, .navbar-default .navbar-nav>li:first-child>a:hover, .navbar-default .navbar-nav>li:first-child>a:focus {
     color: #ff7675;
 }
 .navbar-default .navbar-nav>li:nth-child(2)>a, .navbar-default .navbar-nav>li:nth-child(2)>a:hover, .navbar-default .navbar-nav>li:nth-child(2)>a:focus {
     color: #fdcb6e;
 }
 
-.navbar-default .navbar-nav>li:nth-child(3)>a {
+.navbar-default .navbar-nav>li:nth-child(3)>a, .navbar-default .navbar-nav>li:nth-child(3)>a:hover, .navbar-default .navbar-nav>li:nth-child(3)>a:focus {
     color: #00b894;
 }
 
-.navbar-default .navbar-nav>li:nth-child(4)>a {
+.navbar-default .navbar-nav>li:nth-child(4)>a, .navbar-default .navbar-nav>li:nth-child(4)>a:hover, .navbar-default .navbar-nav>li:nth-child(4)>a:focus {
     color: #74b9ff;
 }
 
